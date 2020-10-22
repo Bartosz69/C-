@@ -1,0 +1,7 @@
+C:\Users\Bartosz\Desktop\c#\Obliczanie logarytmu\bin\Debug\Obliczanie logarytmu.exe.config
+C:\Users\Bartosz\Desktop\c#\Obliczanie logarytmu\bin\Debug\Obliczanie logarytmu.exe
+C:\Users\Bartosz\Desktop\c#\Obliczanie logarytmu\bin\Debug\Obliczanie logarytmu.pdb
+C:\Users\Bartosz\Desktop\c#\Obliczanie logarytmu\obj\Debug\Obliczanie logarytmu.csprojAssemblyReference.cache
+C:\Users\Bartosz\Desktop\c#\Obliczanie logarytmu\obj\Debug\Obliczanie logarytmu.csproj.CoreCompileInputs.cache
+C:\Users\Bartosz\Desktop\c#\Obliczanie logarytmu\obj\Debug\Obliczanie logarytmu.exe
+C:\Users\Bartosz\Desktop\c#\Obliczanie logarytmu\obj\Debug\Obliczanie logarytmu.pdb
