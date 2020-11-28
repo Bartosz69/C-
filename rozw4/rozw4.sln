@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rozw4", "rozw4.csproj", "{461AE223-C1B5-48D3-AF51-7247E51490B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{461AE223-C1B5-48D3-AF51-7247E51490B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{461AE223-C1B5-48D3-AF51-7247E51490B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{461AE223-C1B5-48D3-AF51-7247E51490B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{461AE223-C1B5-48D3-AF51-7247E51490B4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {53844C10-022E-49E4-83B5-3A34A0377CB0}
+	EndGlobalSection
+EndGlobal
