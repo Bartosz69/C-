@@ -1,0 +1,2 @@
+C:\Users\Bartosz\Desktop\c#\zad5.5\obj\Debug\zad5.5.csprojAssemblyReference.cache
+C:\Users\Bartosz\Desktop\c#\zad5.5\obj\Debug\zad5.5.csproj.CoreCompileInputs.cache
